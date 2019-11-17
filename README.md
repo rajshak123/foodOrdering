@@ -1,6 +1,4 @@
-# Order & Out
-
-An elegant single page food ordering web application running on top of reactjs & redux.
+# Food Ordering
 
 ## Getting Started
 
@@ -18,7 +16,7 @@ https://s3-ap-southeast-1.amazonaws.com/he-public-data/smartQFood8bef5a2.json
 * First clone the repository
 
 ```
-git clone 
+git clone https://github.com/rajshak123/foodOrdering.git
 ```
 
 * Then go to the local directory and run below commands
