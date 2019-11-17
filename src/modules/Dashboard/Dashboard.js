@@ -9,9 +9,6 @@ import Cart from '../Cart/cart';
 import Filters from "../Filters/filterManager";
 class Dashboard extends Component {
 
-    constructor(props, context) {
-        super(props, context);
-    }
 
     componentDidMount() {
         api.getAllItems()

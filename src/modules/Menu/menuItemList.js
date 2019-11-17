@@ -6,9 +6,6 @@ import MenuItem from './menuItem';
 
 class MenuItemList extends Component {
 
-    constructor(props, context) {
-        super(props, context);
-    }
 
     addToSelection = (data) => {
         const arr = [...this.props.selectedItems];

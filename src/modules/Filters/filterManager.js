@@ -14,8 +14,8 @@ const initialstate = {
 };
 class Filters extends Component {
 
-    constructor(props, context) {
-        super(props, context);
+    constructor(props) {
+        super(props);
         this.state = initialstate;
     }
 
@@ -55,8 +55,6 @@ class Filters extends Component {
                 ok = (obj.itemname.toLowerCase().search(filterNameText.toLowerCase()) > -1);
             }
             return ok;
-            obj.items = filteredItems;
-            array[idx] = obj;
         });
         // set State
         this.setState({ filterNameText, filterCategoryText, filterRatingText, filterPriceText, filteredItems });
