@@ -1,11 +1,10 @@
 {
   "name": "react-redux-starter",
   "version": "1.0.0",
-  "description": "Simple, Straightforward, bare-minimum code to get started with your new React + Redux application.",
+  "description": "Food Ordering",
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
-    "chai": "^4.1.2",
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
     "history": "^4.7.2",
@@ -21,8 +20,7 @@
     "react-star-rating-component":"*"
   },
   "devDependencies": {
-    "bootstrap": "^3.3.7",
-    "jquery": "^3.2.1"
+    "bootstrap": "^3.3.7"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -33,7 +31,5 @@
   "repository": {
     "type": "git",
     "url": "react-redux-starter"
-  },
-  "author": "saransh",
-  "license": "ISC"
+  }
 }
