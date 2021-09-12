@@ -37,3 +37,11 @@ http://localhost:3000
 
 * [create-react-app](https://github.com/facebook/create-react-app)
 * [Redux](https://github.com/reactjs/redux/tree/master/docs) - State Management
+
+
+![Screenshot from 2021-09-12 22-25-36](https://user-images.githubusercontent.com/25932961/132996334-2dee7392-7b39-47c1-a02e-c371f291bd00.png)
+
+
+
+
+
